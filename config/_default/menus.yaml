@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 1d90dfb7-144d-6af1-7356-fa538dcc83fc
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 057591d4-8979-f814-8488-b39d64c559ea
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: c24613bc-4e61-0440-5f5e-86597acca00f
+  name: Recitations
+  url: /pages/recitations
+  weight: 30
+- identifier: 8b88dd46-cc8f-9062-9d7c-8cc6b91e2f49
+  name: Labs
+  url: /pages/labs
+  weight: 40
+- identifier: 0b66e8dd-4b26-603e-ddaa-1768a010e0e4
+  name: Exams
+  url: /pages/exams
+  weight: 50
+- identifier: 19600174-4085-212a-b754-610eb8f73011
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 60
